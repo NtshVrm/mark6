@@ -93,6 +93,15 @@ button{
     color: black;
 }
 
+.bold{
+    font-weight: bolder;
+}
+
+.minion{
+    color: var(--primary-color);
+    font-weight:bold;
+}
+
 
 .footer{
     background-color: var(--primary-color);
